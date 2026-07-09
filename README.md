@@ -68,8 +68,8 @@ Worked on developing AI and Machine Learning based applications with a focus on 
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(Add your LinkedIn URL here)*
-- 📧 Email: *(Add your email here)*
+- 💼 LinkedIn: *(https://www.linkedin.com/in/priyanka-b-149996354)*
+- 📧 Email: *(priyankabikki4@gmail.com)*
 
 ---
 
