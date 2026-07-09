@@ -58,18 +58,23 @@ Worked on developing AI and Machine Learning based applications with a focus on 
 
 ## 📜 Certifications
 
-- Python Programming
-- Data Structures using Python
-- Network Fundamentals
-- UI/UX for Beginners
-- Basics of Computer Networking
+| Certificate | Platform | Status |
+|-------------|----------|--------|
+| Python Programming | Great Learning | ✅ Completed |
+| Data Structures using Python | Udemy | ✅ Completed |
+| Network Fundamentals | Alison | ✅ Completed |
+| UI/UX for Beginners | Great Learning | ✅ Completed |
+| Basics of Computer Networking | Great Learning | ✅ Completed |
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-- 💼 LinkedIn: *(https://www.linkedin.com/in/priyanka-b-149996354)*
-- 📧 Email: *(priyankabikki4@gmail.com)*
+I'm actively looking for Software Engineer, AI/ML Engineer and Data Analyst opportunities.
+
+- 📧 Email: priyankabikki4@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/priyanka-b-149996354
+- 💻 GitHub: https://github.com/priyalikki
 
 ---
 
