@@ -14,27 +14,18 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
-- Java
-- Python
-- SQL
-- C
-- HTML
-- CSS
-- JavaScript
-
-### Tools & Technologies
-- Git
-- GitHub
-- VS Code
-- MySQL
-- Streamlit
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
+| **Category** | **Tools & Technologies** |
+|--------------|--------------------------|
+| 💻 Languages | Java • Python • SQL • C • HTML • CSS • JavaScript |
+| 📚 Frameworks | Flask • Django • Streamlit |
+| 🤖 AI / ML | Scikit-learn • NLP • Deep Learning • VADER Sentiment • TextBlob |
+| 📊 Data Analysis | Pandas • NumPy • Matplotlib • Plotly |
+| 🗄️ Database | MySQL • SQLite |
+| 🔧 Tools | Git • GitHub • VS Code • Jupyter Notebook |
+| ☁️ Technologies | Machine Learning • Data Analytics • REST APIs |
+| 📈 Visualization | Streamlit • Plotly • Matplotlib |
 
 ---
 
